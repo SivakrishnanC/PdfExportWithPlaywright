@@ -1,0 +1,6 @@
+@SamplePdfExport_HostAddress = http://localhost:5078
+
+GET {{SamplePdfExport_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
